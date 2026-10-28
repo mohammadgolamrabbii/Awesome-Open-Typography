@@ -23,6 +23,7 @@ Maintained by **[Mohammad Golamrabbii](https://linktr.ee/golamrabbii)**. Inspire
 ---
 
 ## 🌐 Interactive Hub & CLI Ecosystem
+* 🏛️ [**Internet Archive Permanent Library**](https://archive.org/details/open-typography-foundation) - Lifelong digital preservation landmark and global mirror downloads on Internet Archive.
 * 🚀 [**Open Typography Live Web Previewer**](https://mohammadgolamrabbii.github.io/typography/) - Test, compare, and visualize 80,000+ fonts live directly in the browser across all 5 writing systems.
 * 💻 [**`get-openfonts` Developer CLI**](https://github.com/mohammadgolamrabbii/get-openfonts) - Command-line package manager to instantly install or clone typography archives via `npx get-openfonts`.
 * 🐳 [**Docker Hub Typography Registry**](https://hub.docker.com/u/golamrabbiii) - Official container images for headless rendering, Chromium, Node.js, and CI/CD pipelines.
@@ -31,14 +32,14 @@ Maintained by **[Mohammad Golamrabbii](https://linktr.ee/golamrabbii)**. Inspire
 ---
 
 ## 🌍 Flagship Mega Typography Archives (80,000+ Fonts)
-The world's largest multilingual open typography preservation ecosystem:
+The world's largest multilingual open typography preservation ecosystem, permanently mirrored on Internet Archive:
 
-* 🇬🇧 [**English & Western Latin Mega Archive (50,000+ Fonts)**](https://github.com/mohammadgolamrabbii/English-Fonts-Mega-Archive) - Complete 12-sector open archive (Sans, Serif, Variable, Monospace, Sci-Fi, Vintage).
-* 🇧🇩 [**Bangla Open Fonts Mega Collection (2,600+ Fonts)**](https://github.com/mohammadgolamrabbii/Bangla-Fonts-Mega-Collection) - Unicode & Bijoy ANSI fonts for Linux servers, DTP, and web applications.
-* 🇩🇪 [**German Typography Mega Archive (5,000 Fonts)**](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive) - Fraktur, Schwabacher, Kurrent, DIN 1451, Bauhaus, and modern German grotesque.
-* 🇮🇳 [**Hindi & Devanagari Fonts Mega Archive (6,009 Fonts)**](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive) - Kruti Dev, DevLys, ShreeLipi, Chanakya, Mangal, Poppins, and Vedic Sanskrit.
-* 🕌 [**Arabic & Islamic Typography Mega Archive (13,856 Fonts)**](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive) - Quranic Mushaf, Thuluth, Naskh, Kufic, Diwani, and Arabeyes Linux fonts.
-* 🎨 [**Icons & Symbols Typography (225+ Fonts)**](https://github.com/mohammadgolamrabbii/Icons-and-Symbols-Fonts) - FontAwesome 6, material icons, and UI vector symbol fonts.
+* 🇬🇧 [**English & Western Latin Mega Archive (30,886+ Fonts)**](https://github.com/mohammadgolamrabbii/English-Fonts-Mega-Archive) • [🏛️ Archive.org Mirror](https://archive.org/details/open-typography-foundation-english-fonts) - 6 curated high-speed volumes (Sans, Serif, Variable, Monospace, Sci-Fi, Vintage).
+* 🇧🇩 [**Bangla Open Fonts Mega Collection (2,581+ Fonts)**](https://github.com/mohammadgolamrabbii/Bangla-Fonts-Mega-Collection) • [🏛️ Archive.org Mirror](https://archive.org/details/open-typography-foundation-bangla-fonts) - Unicode & Bijoy ANSI fonts for Linux servers, DTP, and web applications.
+* 🇩🇪 [**German Typography Mega Archive (5,002+ Fonts)**](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive) • [🏛️ Archive.org Mirror](https://archive.org/details/open-typography-foundation-german-fraktur) - Fraktur, Schwabacher, Kurrent, DIN 1451, Bauhaus, and modern German grotesque.
+* 🇮🇳 [**Hindi & Devanagari Fonts Mega Archive (6,011+ Fonts)**](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive) • [🏛️ Archive.org Mirror](https://archive.org/details/open-typography-foundation-hindi-devanagari) - Kruti Dev, DevLys, ShreeLipi, Chanakya, Mangal, Poppins, and Vedic Sanskrit.
+* 🕌 [**Arabic & Islamic Typography Mega Archive (13,856+ Fonts)**](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive) • [🏛️ Archive.org Mirror](https://archive.org/details/open-typography-foundation-arabic-fonts) - 4 master volumes of Quranic Mushaf, Thuluth, Naskh, Kufic, Diwani, and Arabeyes Linux fonts.
+* 🎨 [**Icons & Symbols Typography (225+ Fonts)**](https://github.com/mohammadgolamrabbii/Icons-and-Symbols-Fonts) • [🏛️ Archive.org Mirror](https://archive.org/details/open-typography-foundation-icons-symbols) - FontAwesome 6, material icons, and UI vector symbol fonts.
 
 ---
 

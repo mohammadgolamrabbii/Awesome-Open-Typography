@@ -7,7 +7,7 @@ Maintained by **[Mohammad Golamrabbii](https://linktr.ee/golamrabbii)**. Inspire
 
 ## ðŸ“‘ Contents
 - [ðŸŒ Interactive Hub & CLI Ecosystem](#-interactive-hub--cli-ecosystem)
-- [ðŸŒ Flagship Mega Typography Archives (334,627+ Fonts)](#-flagship-mega-typography-archives-80000-fonts)
+- [ðŸŒ Flagship Mega Typography Archives (400,237+ Fonts)](#-flagship-mega-typography-archives-80000-fonts)
 - [ðŸ”¤ Iconic Modern Typefaces by Category](#-iconic-modern-typefaces-by-category)
   - [Modern Sans-Serif](#modern-sans-serif)
   - [Editorial Luxury Serif](#editorial-luxury-serif)
@@ -24,14 +24,14 @@ Maintained by **[Mohammad Golamrabbii](https://linktr.ee/golamrabbii)**. Inspire
 
 ## ðŸŒ Interactive Hub & CLI Ecosystem
 * ðŸ›ï¸ [**Internet Archive Permanent Library**](https://archive.org/details/open-typography-foundation) - Lifelong digital preservation landmark and global mirror downloads on Internet Archive.
-* ðŸš€ [**Open Typography Live Web Previewer**](https://mohammadgolamrabbii.github.io/typography/) - Test, compare, and visualize 334,627+ Fonts live directly in the browser across all 5 writing systems.
-* 💻 [**`get-openfonts` Developer CLI (v3.0.0)**](https://github.com/mohammadgolamrabbii/get-openfonts) — Universal cross-platform CLI to search, download, and auto-install 334,627+ open-source typefaces across 100 sovereign script vaults directly via `npx get-openfonts install <name>`.
+* ðŸš€ [**Open Typography Live Web Previewer**](https://mohammadgolamrabbii.github.io/typography/) - Test, compare, and visualize 400,237+ Fonts live directly in the browser across all 5 writing systems.
+* 💻 [**`get-openfonts` Developer CLI (v3.0.0)**](https://github.com/mohammadgolamrabbii/get-openfonts) — Universal cross-platform CLI to search, download, and auto-install 400,237+ open-source typefaces across 100 sovereign script vaults directly via `npx get-openfonts install <name>`.
 * ðŸ³ [**Docker Hub Typography Registry**](https://hub.docker.com/u/golamrabbiii) - Official container images for headless rendering, Chromium, Node.js, and CI/CD pipelines.
 * ðŸª£ [**Bitbucket Enterprise Mirrors**](https://bitbucket.org/golamrabbii/English-Fonts-Mega-Archive) - Official Atlassian Bitbucket enterprise repositories.
 
 ---
 
-## ðŸŒ Flagship Mega Typography Archives (334,627+ Fonts)
+## ðŸŒ Flagship Mega Typography Archives (400,237+ Fonts)
 The world's largest multilingual open typography preservation ecosystem, permanently mirrored on Internet Archive:
 
 * ðŸ‡·ðŸ‡º [**Cyrillic & Slavic Typography Mega Archive (873+ Fonts)**](https://github.com/Open-Typography-Foundation/Cyrillic-Fonts-Mega-Archive) - Soviet Constructivism (Ð Ð¾Ð´Ñ‡ÐµÐ½ÐºÐ¾), ParaType Modern Grotesque (PT Sans), Imperial Russian Literature (PT Serif), and Slavic Vyaz Calligraphy.

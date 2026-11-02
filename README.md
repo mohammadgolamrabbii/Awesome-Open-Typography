@@ -25,7 +25,7 @@ Maintained by **[Mohammad Golamrabbii](https://linktr.ee/golamrabbii)**. Inspire
 ## ðŸŒ Interactive Hub & CLI Ecosystem
 * ðŸ›ï¸ [**Internet Archive Permanent Library**](https://archive.org/details/open-typography-foundation) - Lifelong digital preservation landmark and global mirror downloads on Internet Archive.
 * ðŸš€ [**Open Typography Live Web Previewer**](https://mohammadgolamrabbii.github.io/typography/) - Test, compare, and visualize 334,627+ Fonts live directly in the browser across all 5 writing systems.
-* ðŸ’» [**`get-openfonts` Developer CLI**](https://github.com/mohammadgolamrabbii/get-openfonts) - Command-line package manager to instantly install or clone typography archives via `npx get-openfonts`.
+* 💻 [**`get-openfonts` Developer CLI (v3.0.0)**](https://github.com/mohammadgolamrabbii/get-openfonts) — Universal cross-platform CLI to search, download, and auto-install 334,627+ open-source typefaces across 100 sovereign script vaults directly via `npx get-openfonts install <name>`.
 * ðŸ³ [**Docker Hub Typography Registry**](https://hub.docker.com/u/golamrabbiii) - Official container images for headless rendering, Chromium, Node.js, and CI/CD pipelines.
 * ðŸª£ [**Bitbucket Enterprise Mirrors**](https://bitbucket.org/golamrabbii/English-Fonts-Mega-Archive) - Official Atlassian Bitbucket enterprise repositories.
 
